@@ -1,4 +1,4 @@
-baseURL = "https://examnple.com/"
+baseURL = "https://tnmt-memo.pages.dev"
 enableEmoji = true
 languageCode = "ja"
 paginate = 10
